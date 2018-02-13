@@ -1,2 +1,3 @@
-# College-Ranking-Visualization
-This project provides innovative way to visualize the college ranking using collapsable parallel coordinates. 
+# hata
+We are team hata.
+This is a project of the Information Visualization course.
